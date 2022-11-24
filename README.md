@@ -24,7 +24,7 @@ This project is intended as an example for how Playwright Test can be used for n
 - Start the Appium Inspector
 
 ### Run the Test
-- from the project root run `npm run test`
+`npm run test`
 
 ### View the Test Report
-In a terminal from the project root run `npx playwright show-report`
+`npx playwright show-report`
