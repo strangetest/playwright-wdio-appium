@@ -1,0 +1,33 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+appium.log*
+
+# Dependency directories
+node_modules/*
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional npm cache directory
+.npm
+
+# Environment variables
+.env
+.env.test
+
+# System & IDE files
+.idea/
+.vscode/
+.DS_Store
+
+# Playwright built files
+playwright.config.js
+test-results.json
+
+# npm - don't push package-lock, project uses pnpm
+package-lock.json
+
+# app dist
+frameworks/mobile/apps/*
