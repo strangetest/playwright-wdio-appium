@@ -16,8 +16,15 @@ This project is intended as an example for how Playwright Test can be used for n
 1. clone the project
 2. run `npm install` from the root of the project
 
+## Setup
+- open Android Studio and create a device
+- Start the Android emulator
+- Start the Appium server
+- Start the Appium GUI
+- Start the Appium Inspector
+
 ### Run the Test
-In a terminal from the project root run `npm run test`
+- from the project root run `npm run test`
 
 ### View the Test Report
 In a terminal from the project root run `npx playwright show-report`
