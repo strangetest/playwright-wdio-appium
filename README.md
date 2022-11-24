@@ -16,7 +16,7 @@ This project is intended as an example for how Playwright Test can be used for n
 1. clone the project
 2. run `npm install` from the root of the project
 
-## Setup
+### Setup
 - open Android Studio and create a device
 - Start the Android emulator
 - Start the Appium server
