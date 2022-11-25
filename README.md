@@ -1,16 +1,13 @@
 This project is intended as an example for how Playwright Test can be used for native mobile apps.
 
-### Prerequisite Dependencies
-- Node.js
-- Java SDK
-- Android Studio
-- Xcode
-- Appium
-- Appium Server
-- Appium GUI
-- XCODE
-- appium-doctor
-- carthage
+### Prerequisites
+ - Node.js
+ - Java SDK
+ - Android SDK & AVD Emulator
+ - Appium
+ - appium-doctor (for help with setup)
+ - Xcode
+ - carthage
 
 ### Installation
 1. clone the project
